@@ -30,9 +30,6 @@ This project aims to classify and detect various types of vehicles using the Car
 - Laurentius: Modeling, Model comparison.
 
 ## References
-Include a list of references in APA format here.
-
-## License
 •  Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer.
 •  Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
 •  Redmon, J., & Farhadi, A. (2018). YOLOv3: An Incremental Improvement. arXiv preprint arXiv:1804.02767.
