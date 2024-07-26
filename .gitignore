@@ -14,6 +14,9 @@ tests/.cache/v/cache/lastfailed
 # YOLO
 notebooks/runs
 
+# PyTorch
+**.pth
+
 ##
 ## R Section - See https://github.com/github/gitignore/blob/master/R.gitignore
 ##
