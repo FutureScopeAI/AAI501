@@ -1,0 +1,27 @@
+<annotation>
+  <folder>DATA</folder>
+  <filename>02178f3aa9e8b0d1_jpg.rf.704fc24e41f5f2a604fab8a066f84f8c.jpg</filename>
+  <source>
+    <database>The VOC Database</database>
+    <annotation>PASCAL VOC</annotation>
+    <image>flickr</image>
+  </source>
+  <size>
+    <width>416</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Motorcycle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>23</xmin>
+      <ymin>74</ymin>
+      <xmax>407</xmax>
+      <ymax>366</ymax>
+    </bndbox>
+  </object>
+</annotation>

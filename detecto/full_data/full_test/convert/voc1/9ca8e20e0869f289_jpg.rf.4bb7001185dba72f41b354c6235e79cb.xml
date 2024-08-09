@@ -1,0 +1,39 @@
+<annotation>
+  <folder>DATA</folder>
+  <filename>9ca8e20e0869f289_jpg.rf.4bb7001185dba72f41b354c6235e79cb.jpg</filename>
+  <source>
+    <database>The VOC Database</database>
+    <annotation>PASCAL VOC</annotation>
+    <image>flickr</image>
+  </source>
+  <size>
+    <width>416</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Truck</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>232</xmin>
+      <ymin>121</ymin>
+      <xmax>385</xmax>
+      <ymax>324</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Truck</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>31</xmin>
+      <ymin>0</ymin>
+      <xmax>216</xmax>
+      <ymax>347</ymax>
+    </bndbox>
+  </object>
+</annotation>

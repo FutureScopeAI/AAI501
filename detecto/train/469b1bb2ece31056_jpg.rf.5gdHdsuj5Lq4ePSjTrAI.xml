@@ -1,0 +1,27 @@
+<annotation>
+  <folder>DATA</folder>
+  <filename>469b1bb2ece31056_jpg.rf.5gdHdsuj5Lq4ePSjTrAI.jpg</filename>
+  <source>
+    <database>The VOC Database</database>
+    <annotation>PASCAL VOC</annotation>
+    <image>flickr</image>
+  </source>
+  <size>
+    <width>416</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Car</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>155</xmin>
+      <ymin>207</ymin>
+      <xmax>396</xmax>
+      <ymax>399</ymax>
+    </bndbox>
+  </object>
+</annotation>
