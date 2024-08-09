@@ -1,0 +1,39 @@
+<annotation>
+  <folder>DATA</folder>
+  <filename>230823605bf60c37_jpg.rf.w5PtSkESUfxwB6p4RVUy.jpg</filename>
+  <source>
+    <database>The VOC Database</database>
+    <annotation>PASCAL VOC</annotation>
+    <image>flickr</image>
+  </source>
+  <size>
+    <width>416</width>
+    <height>416</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Ambulance</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>33</xmin>
+      <ymin>33</ymin>
+      <xmax>388</xmax>
+      <ymax>392</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Ambulance</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>291</xmin>
+      <ymin>89</ymin>
+      <xmax>412</xmax>
+      <ymax>252</ymax>
+    </bndbox>
+  </object>
+</annotation>
