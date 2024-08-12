@@ -7,6 +7,7 @@ dst-env/
 .cache/v/cache/lastfailed
 tests/.cache/v/cache/lastfailed
 .vscode/settings.json
+detr_trainer_output
 
 # MacOS
 .DS_Store
